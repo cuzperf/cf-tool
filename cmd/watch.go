@@ -1,7 +1,7 @@
 package cmd
 
 import (
-	"github.com/izlyforever/cf-tool/client"
+	"github.com/cuzperf/cf-tool/client"
 )
 
 // Watch command

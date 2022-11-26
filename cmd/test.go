@@ -17,8 +17,8 @@ import (
 	ansi "github.com/k0kubun/go-ansi"
 	"github.com/sergi/go-diff/diffmatchpatch"
 	"github.com/shirou/gopsutil/process"
-	"github.com/izlyforever/cf-tool/config"
-	"github.com/izlyforever/cf-tool/util"
+	"github.com/cuzperf/cf-tool/config"
+	"github.com/cuzperf/cf-tool/util"
 )
 
 func splitCmd(s string) (res []string) {

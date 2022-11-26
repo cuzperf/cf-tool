@@ -3,7 +3,7 @@ package cmd
 import (
 	"os"
 
-	"github.com/izlyforever/cf-tool/client"
+	"github.com/cuzperf/cf-tool/client"
 )
 
 // Clone command

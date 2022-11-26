@@ -10,9 +10,9 @@ import (
 	"time"
 
 	"github.com/fatih/color"
-	"github.com/izlyforever/cf-tool/client"
-	"github.com/izlyforever/cf-tool/config"
-	"github.com/izlyforever/cf-tool/util"
+	"github.com/cuzperf/cf-tool/client"
+	"github.com/cuzperf/cf-tool/config"
+	"github.com/cuzperf/cf-tool/util"
 )
 
 func parseTemplate(source string, cln *client.Client) string {

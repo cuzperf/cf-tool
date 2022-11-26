@@ -5,7 +5,7 @@ import (
 	"regexp"
 	"strings"
 
-	"github.com/izlyforever/cf-tool/util"
+	"github.com/cuzperf/cf-tool/util"
 )
 
 // StatisInfo statis information
